@@ -1,5 +1,5 @@
 # ¡Hola! Soy Ezequiel Arevalo
-Estudiante de diseño y desarrollo web de 21 años que actualmente está estudiando en DaVinci. Siempre estoy buscando oportunidades para mejorar mis habilidades y conocimientos en el campo del diseño y desarrollo web. Uno de mis principios fundamentales es la autocrítica constructiva y el deseo de aprender de mis errores y fallos para seguir mejorando en cada proyecto en el que trabajo.
+Estudiante de diseño y desarrollo web actualmente estoy estudiando en DaVinci. Siempre estoy buscando oportunidades para mejorar mis habilidades y conocimientos en el campo del diseño y desarrollo web. Uno de mis principios fundamentales es la autocrítica constructiva y el deseo de aprender de mis errores y fallos para seguir mejorando en cada proyecto en el que trabajo.
 
 ## 🎨 Frontend:
 <!-- Lista de tecnologías frontend -->
